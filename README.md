@@ -1,5 +1,6 @@
 # stepik-id-printer
-___________________
+![alt text](https://ucarecdn.com/02b8ff49-8f2b-4ce9-be84-7d4bdc6b9b67/) 
+_________________
 Скрипт ```username.sh``` выводит мое имя.
 
 ## Возможности
